@@ -65,3 +65,7 @@ body {
     width: 600px;
     height: 400px;
 }
+
+.block-desc {
+    margin-left: 30px;
+}
